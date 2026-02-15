@@ -29,12 +29,16 @@ h3 {
   font-optical-sizing: auto;
   font-weight: 700;
   font-style: normal;
+  text-align: center;
+  margin: 1rem;
 }
 p {
   font-family: "Outfit", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 400;
+  font-weight: 300;
   font-style: normal;
+  margin: 1rem;
+  text-align: center;
 }
 img {
   border-radius: 10px;
